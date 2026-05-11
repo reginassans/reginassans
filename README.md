@@ -1,4 +1,5 @@
-## Hi there 👋
+## Bem vindo(a) 👋
+Faço produtos digitais educacionais e de outros tipos, estou em busca de novas experiências unindo design, psicologia e educação! 
 
 <!--
 **reginassans/reginassans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
